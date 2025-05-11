@@ -44,7 +44,9 @@ public class ContactPage extends TestBase {
 		
 	}
 	
-	
+	public void testExampleforGit() {
+		System.out.println("nnnnnnnnnnnn");
+	}
 	
 	
 
